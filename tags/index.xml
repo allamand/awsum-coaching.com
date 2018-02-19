@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Awsum Coaching &amp; Formation</title>
-    <link>https://awsum-coaching.com/tags/</link>
+    <link>http://awsum-coaching.com/tags/</link>
     <description>Recent content in Tags on Awsum Coaching &amp; Formation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     
-	<atom:link href="https://awsum-coaching.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://awsum-coaching.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
